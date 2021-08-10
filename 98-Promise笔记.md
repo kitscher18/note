@@ -369,7 +369,7 @@ const p = new Promise((resolve, reject) => {
 
 ```js
 1 : 一个构造函数
-2 : 两个原型方法
+2 : 两个原型方法 (try,catch)
 3 : 三种状态 
 4 : 四个静态方法
 ```
